@@ -1,0 +1,26 @@
+html{
+    height: 100%;
+  }
+  form {
+    background-color: rgb(190, 228, 238);
+    padding:20px;
+    font-family: Aptos Display;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    border-radius: 80px;
+    font-size: 40px;
+}
+
+  body{
+    position: relative;
+    margin: 50px;
+    padding: 0;
+    background: linear-gradient(#42043f, #4e06f8);
+  }
+  select{
+  height: 200px;
+  width: 200px;
+  right: 30px;
+
+}
